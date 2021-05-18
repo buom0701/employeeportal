@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.center-navbar {
+  width: 30%;
+  margin-left: 35%;
+  }
+
+.App-header {
+  background-color: rgb(0, 0, 0);
+  min-height: 100vh;
+  display: flex-shrink;
+  flex-direction: row;
+  align-items: top;
+  justify-content: space-evenly;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+h1 {
+  font-family:'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color:fuchsia ;
+}
+
+nav {
+  font-size: smaller;
+  display: flex-shrink;
+}
+
